@@ -1,0 +1,31 @@
+button{
+	width: 250px;
+	height:100px;
+	font-size: 30px;
+	background-color: fuchsia;
+	border-radius: 75px;
+	border-style: solid;
+	border-color: red;
+	border-width: 10px;
+	margin-top: 50px;
+}
+img{
+	border-radius: 75px;
+	border-style: solid;
+	border-color: blue;
+	border-width: 10px;
+}
+body{
+	text-align: center;
+	background-color: yellow;
+}
+h1{
+	text-decoration: overline;
+font-family: fantasy;
+	font-size: 50px;
+		
+
+}
+div{
+	margin-top: 50px;s
+}
